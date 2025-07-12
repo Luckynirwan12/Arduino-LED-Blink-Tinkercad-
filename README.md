@@ -1,1 +1,28 @@
-# Arduino-LED-Blink-Tinkercad-
+# 💡 Arduino LED Blink Project
+## 📌 Overview
+This project demonstrates how to use an Arduino Uno to control an LED, making it blink at regular intervals. It's a foundational experiment for learning how to control digital outputs using Arduino code.
+
+## 🧰 Components Used
+- Arduino Uno
+
+- Breadboard
+
+- 1x LED (Red)
+
+- 1x 220Ω resistor (to limit current and protect the LED)
+
+- Jumper wires
+
+## 🔌 Circuit Explanation
+- The long leg (anode) of the LED is connected to digital pin 13 of the Arduino via a jumper wire.
+
+- The short leg (cathode) is connected to GND through a 220Ω resistor.
+
+- This setup completes the circuit and allows the LED to be powered and controlled by the Arduino.
+
+## 🧠 Working Principle
+- The Arduino sketch (code) sends a HIGH signal to pin 13 for a short period (e.g., 1 second), lighting up the LED.
+
+- Then it sends a LOW signal, turning the LED off.
+
+- This cycle repeats to create a blinking effect.
