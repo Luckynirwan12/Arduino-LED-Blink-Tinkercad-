@@ -26,3 +26,11 @@ This project demonstrates how to use an Arduino Uno to control an LED, making it
 - Then it sends a LOW signal, turning the LED off.
 
 - This cycle repeats to create a blinking effect.
+
+## 💡 Arduino Code
+The Arduino sketch for this project is saved in the file:
+
+📂 `Arduino_LED_Blink.ino`
+  
+## 📸 Demonstration Snapshot:
+<img width="1656" height="715" alt="image" src="https://github.com/user-attachments/assets/93344fde-6adc-4776-bd78-bd3db943705b" />
